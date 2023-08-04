@@ -6,6 +6,7 @@
 ・DeBERTa-V2~3：Huggingfaceからモデル呼び出し
 
 ・juman++：[jumanpp-2.0.0-rc3](https://nlp.ist.i.kyoto-u.ac.jp/?JUMAN%2B%2B)https://nlp.ist.i.kyoto-u.ac.jp/?JUMAN%2B%2B
-→ファイル量が大きいため、こちらのリンクからlocalに落としてダウンロード
+
+→ファイル容量が大きいため、こちらのリンクからlocalに落としてダウンロード
 
 
